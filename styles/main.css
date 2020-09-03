@@ -1,0 +1,35 @@
+body {
+	background: #00CACA;
+	padding: 25px;
+}
+
+h1,h2 {
+	font-family: "comic sans ms", cursive;
+	padding-left: 25px;
+}
+
+ul{
+	padding: 10px 25px;
+	background: #7688a6;
+}
+/* # means special - this is for the navigation ul */
+#nav {
+	font-family: tahoma;
+	background: none;
+}	
+
+a {
+	color: purple;
+}
+
+p {
+	padding: 10px 25px;
+	background: #48b6d6;
+	font-family: tahoma;
+}	
+
+img {
+	padding: 25px;
+	border:2px solid grey;
+	margin: 10px;
+}
